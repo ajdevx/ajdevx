@@ -46,9 +46,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  
+  <!-- Fixed Express with white background -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="30" alt="Express" />
+
+  <!-- Replaced Socket.io icon with white-on-black version -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" alt="Socket.io" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-socketio-a-javascript-library-for-real-time-web-applications-logo-color-tal-revivo.png" height="40" alt="Socket.io" />
 </p>
 
 ---
@@ -62,11 +67,10 @@
 
 ---
 
-### 🔥 GitHub Streaks & Summary
+### 🔥 GitHub Streaks
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajdevx&theme=radical" />
 </p>
 
 ---
