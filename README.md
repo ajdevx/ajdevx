@@ -70,9 +70,8 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical&v=2" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical" />
 </p>
-
 ---
 
 ### 👁️ Visitor Counter
