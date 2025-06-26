@@ -1,55 +1,54 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F73B94&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Jha;A+Full+Stack+Web+Developer+from+India;I+%E2%9D%A4%EF%B8%8F+coding+and+building+web+apps" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there 👋, I'm Anurag Jha</h1>
+<h3 align="center">🚀 Full Stack Developer | Passionate Coder | Web3 Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73B94&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Web3+%7C+Socket.io+%7C+Cloud+Lover;Let%27s+Build+Something+Awesome+Together!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="450" alt="Developer at work" />
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Web3**, **Socket.io**, and **Cloud Platforms**
-- 💬 Ask me about **JavaScript**, **Node.js**, **Express**, and **MongoDB**
-- 📫 How to reach me: **ajdevxofficial@gmail.com**
-- 📄 Know about my experiences [Resume](#)
+- 🌱 Currently diving into **Web3**, **Socket.io**, and **Cloud Platforms**
+- 👨‍💻 Focused on full-stack development using **JavaScript** and **Java**
+- 💬 Ask me about `JavaScript`, `Node.js`, `Express`, `Socket.io`, or `Java`
+- 📫 Reach me: **ajdevxofficial@gmail.com**
+- 📄 Know about my experiences: [View Resume](#)
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/anuragjha" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/anuragjha" target="blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  <a href="https://linkedin.com/in/anuragjha" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ajdevxofficial@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/anuragjha" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 Languages and Tools
+### 🛠️ Tech Stack I Work With
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-socketio-a-javascript-library-for-real-time-web-applications-logo-color-tal-revivo.png" height="40" alt="Socket.io" />
 </p>
 
 ---
@@ -63,7 +62,7 @@
 
 ---
 
-### 🔥 Streaks & Contributions
+### 🔥 GitHub Streaks & Summary
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical" />
