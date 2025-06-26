@@ -65,7 +65,7 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=ajdevx&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ajdevx&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
