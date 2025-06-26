@@ -1,78 +1,49 @@
-<!-- PROFILE HEADER -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Anurag Jha - Portfolio</title>
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; scroll-behavior: smooth; background: #0d1117; color: white; }
+    section { padding: 50px; text-align: center; }
+    img { border-radius: 10px; }
+  </style>
+</head>
+<body>
 
-<h1 align="center">Hi there 👋, I'm Anurag Jha</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate Coder | Web3 Learner</h3>
+  <section data-aos="fade-up">
+    <h1>👋 Hi, I'm Anurag Jha</h1>
+    <h3>🚀 Full Stack Developer | Web3 Learner</h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73B94&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Web3+%7C+Socket.io+%7C+Cloud+Lover;Let%27s+Build+Something+Awesome+Together!" />
+  </section>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73B94&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Web3+%7C+Socket.io+%7C+Cloud+Lover;Let%27s+Build+Something+Awesome+Together!&v=1" alt="Typing SVG" />
-</p>
+  <section data-aos="zoom-in">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical" width="500" />
+  </section>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="450" alt="Developer at work" />
-</p>
+  <section data-aos="fade-right">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajdevx&show_icons=true&theme=radical" width="500" />
+  </section>
 
----
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init();
 
-### 🙋‍♂️ About Me
+    // Reload GitHub SVG images when in view
+    const imgs = document.querySelectorAll("img[src*='github-readme']");
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const img = entry.target;
+          const src = img.getAttribute("src").split("?")[0];
+          img.setAttribute("src", `${src}?v=${Date.now()}`);
+        }
+      });
+    }, { threshold: 0.5 });
 
-- 🌱 Currently diving into **Web3**, **Socket.io**, and **Cloud Platforms**
-- 👨‍💻 Focused on full-stack development using **JavaScript** and **Java**
-- 💬 Ask me about `JavaScript`, `Node.js`, `Express`, `Socket.io`, or `Java`
-- 📫 Reach me: **ajdevxofficial@gmail.com**
-- 📄 Know about my experiences: [View Resume](#)
+    imgs.forEach(img => observer.observe(img));
+  </script>
 
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/anuragjha" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ajdevxofficial@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/anuragjha" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack I Work With
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-
-  <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white" height="30" alt="Express" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" alt="Socket.io" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajdevx&show_icons=true&theme=radical&v=1" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdevx&layout=compact&theme=radical&v=1" />
-</p>
-
----
-
-### 🔥 GitHub Streaks
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical&v=1" />
-</p>
-
----
-
-### 👁️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajdevx&label=Profile%20views&color=0e75b6&style=flat" alt="ajdevx" />
-</p>
+</body>
+</html>
