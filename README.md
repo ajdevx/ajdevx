@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full Stack Developer | Passionate Coder | Web3 Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73B94&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Web3+%7C+Socket.io+%7C+Cloud+Lover;Let%27s+Build+Something+Awesome+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73B94&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Web3+%7C+Socket.io+%7C+Cloud+Lover;Let%27s+Build+Something+Awesome+Together!&v=1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,12 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 
-  <!-- Express with white text on dark badge -->
   <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white" height="30" alt="Express" />
-
-  <!-- Reliable Socket.io icon -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" alt="Socket.io" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </p>
 
@@ -61,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajdevx&show_icons=true&theme=radical&v=2" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdevx&layout=compact&theme=radical&v=2" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajdevx&show_icons=true&theme=radical&v=1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdevx&layout=compact&theme=radical&v=1" />
 </p>
 
 ---
@@ -70,8 +66,9 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical&v=1" />
 </p>
+
 ---
 
 ### 👁️ Visitor Counter
